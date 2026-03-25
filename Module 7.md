@@ -324,3 +324,5 @@ Output:
 
 <img width="436" height="222" alt="image" src="https://github.com/user-attachments/assets/3188cbd7-697e-4c86-a3b1-613ee8c891fc" />
 
+Result:
+Thus,the program is verified successfully
